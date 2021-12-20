@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b309a"],{2754:function(n,t,e){"use strict";e.r(t);var o=e("7a23");const r={class:"notFound"};function c(n,t,e,c,a,s){return Object(o["t"])(),Object(o["f"])("div",r)}var a={name:"404",created(){this.$Util.setErrorAlert("/","Notfound Page",404)}},s=e("6b0d"),d=e.n(s);const u=d()(a,[["render",c]]);t["default"]=u}}]);
+//# sourceMappingURL=chunk-2d0b309a.js.map
